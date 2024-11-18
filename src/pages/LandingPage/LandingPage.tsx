@@ -9,7 +9,7 @@ function LandingPage() {
 
       <div className="section1">
         <div className="text-container">
-          <h1 className="title">Servicio el Ateneo</h1>
+          <h1 className="title"> o</h1>
           <h2 className="subTitle">
             A student-driven platform by Ateneo de Zamboanga dedicated to
             connecting communities in crisis with volunteers and donors. When
