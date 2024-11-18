@@ -4,12 +4,12 @@ function MyNavbar() {
     <>
       <div className="navbar">
         <div className="logo">
-          <h1>Ateneo</h1>
+          <h1>Blue Ridge</h1>
         </div>
         <ul>
           <li>Home</li>
-          <li>Documentation</li>
-          <li>Contact Us</li>
+          <li>Donation</li>
+          <li>Volunteers</li>
         </ul>
       </div>
     </>
